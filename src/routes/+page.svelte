@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app
+		в ваше новое />SvelteKit приоржение
 	</h1>
 
 	<h2>
