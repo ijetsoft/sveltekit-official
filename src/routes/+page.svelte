@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		в ваше новое <br/>SvelteKit приложение
+		SvelteKit приложение
 	</h1>
 
 	<h2>
