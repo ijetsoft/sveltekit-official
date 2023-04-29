@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		SvelteKit приложение
+		SvelteKit-приложение
 	</h1>
 
 	<Counter />
